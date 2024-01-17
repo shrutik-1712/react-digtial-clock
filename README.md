@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#h1 screenshort of app 
-![Alt text]([image link](https://github.com/shrutik-1712/react-digtial-clock/blob/main/src/assets/Screenshot%202024-01-17%20132106.png)https://github.com/shrutik-1712/react-digtial-clock/blob/main/src/assets/Screenshot%202024-01-17%20132106.png)
+# screenshort of app 
+![Alt text](https://github.com/shrutik-1712/react-digtial-clock/blob/main/src/assets/Screenshot%202024-01-17%20132106.png)
